@@ -4,11 +4,11 @@
 [![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-ScratchAndWin.svg?style=popout)](https://github.com/S-ayanide/Flutter-ScratchAndWin/blob/master/LICENSE)
 
-A simple Scratch and Win App where you have a grid of 25 blocks out of which only one block has the prize. Good Luck finding out which one. 😉👌
+This is a Flutter application which generates random users after fetching them through an API and displays them in the UI. 👦 👧
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Short Description
-This Flutter app allows the user to select any 5 block from the total 25 present out of which only one has the prize. If you figure out which block it is on or before 5th try then you win, else you lose and the game will reset itself. It's a game of Luck. Good Luck!
+This Flutter app generates random user's Name, Mobile Number, Age and E-mail from an API request from the website [Random User](https://randomuser.me/). Everytime the app reloads it generates new sets of users.
 
 ## Screenshots
 <img src="images/Capture1.png"
@@ -34,6 +34,10 @@ Running this is as simple as it gets. Follow this steps
      ```
      flutter run
      ```
+
+## Website Used
+[Random User Website](https://randomuser.me/)
+For help getting started with what dependencies you need and how to deploy it, view our [documentation](https://randomuser.me/documentation)
      
 ## Pull Request
 
