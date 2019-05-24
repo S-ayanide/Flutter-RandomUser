@@ -1,8 +1,8 @@
 # Random User Generator
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-ScratchAndWin.svg)](https://github.com/S-ayanide/Flutter-ScratchAndWin/issues)
-[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-ScratchAndWin.svg?style=social)](https://github.com/S-ayanide/Flutter-ScratchAndWin/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-ScratchAndWin.svg?style=popout)](https://github.com/S-ayanide/Flutter-ScratchAndWin/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![GitHub issues](https://img.shields.io/github/issues/S-ayanide/Flutter-RandomUser.svg)](https://github.com/S-ayanide/Flutter-RandomUser/issues)
+[![GitHub forks](https://img.shields.io/github/forks/S-ayanide/Flutter-RandomUser.svg?style=social)](https://github.com/S-ayanide/Flutter-RandomUser/network) [![GitHub stars](https://img.shields.io/github/stars/S-ayanide/Flutter-RandomUser.svg?style=social)](https://github.com/S-ayanide/Flutter-RandomUser/stargazers) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-RandomUser.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-RandomUser/blob/master/LICENSE)
 
 This is a Flutter application which generates random users after fetching them through an API and displays them in the UI. 👦 👧
 ### 👉 If you like this repo then please give it a ⭐️
@@ -51,10 +51,10 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 ## Developed & Maintained by
 [Sayan Mondal](https://github.com/S-ayanide) 
 [📷 Insta](https://www.instagram.com/s_ayanide/)
-[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-ScratchAndWin/edit/master/README.md.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-ScratchAndWin%2Fedit%2Fmaster%2FREADME.md)
+[🐤 Twitter](https://www.instagram.com/s_ayanide/) [![Twitter](https://img.shields.io/twitter/url/https/github.com/S-ayanide/Flutter-RandomUser.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FS-ayanide%2FFlutter-RandomUser)
 
 ## License 
-[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-ScratchAndWin.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-ScratchAndWin/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/S-ayanide/Flutter-RandomUser.svg?style=for-the-badge)](https://github.com/S-ayanide/Flutter-RandomUser/blob/master/LICENSE)
 ```Copyright 2019 Sayan Mondal
 
 Licensed under the Apache License, Version 2.0 (the "License");
