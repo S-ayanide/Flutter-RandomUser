@@ -11,22 +11,13 @@ A simple Scratch and Win App where you have a grid of 25 blocks out of which onl
 This Flutter app allows the user to select any 5 block from the total 25 present out of which only one has the prize. If you figure out which block it is on or before 5th try then you win, else you lose and the game will reset itself. It's a game of Luck. Good Luck!
 
 ## Screenshots
-<img src="images/Capture1.PNG"
+<img src="images/Capture1.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Capture2.PNG"
+     width="200"/> <img src="images/Capture2.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="images/Capture3.PNG"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/2eKf5GwmUd2SBFHkMz/200w_d.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/2sfDYwLZWJa3vzcKmG/200w_d.gif"
-     alt="Home Screen"
-     style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/fQAxC8cuFEbA0f5tql/200w_d.gif"
+     width="200"/> <img src="Capture3.gif"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/>
