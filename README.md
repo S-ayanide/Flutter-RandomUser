@@ -17,7 +17,7 @@ This Flutter app allows the user to select any 5 block from the total 25 present
      width="200"/> <img src="images/Capture2.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="Capture3.gif"
+     width="200"/> <img src="https://media.giphy.com/media/Jsmz6JJhTypljMu9ya/200w_d.gif"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/>
